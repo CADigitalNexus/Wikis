@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.app`,
-    siteAuthor: `@jpedroschmitz`,
+    siteTitle: `Digital Nexus`,
+    defaultTitle: `Nexus Wikis`,
+    siteTitleShort: `Wikis`,
+    siteDescription: `Accelerating CA Digital Transformation with better documentation.`,
+    siteUrl: `https://wikis.digitalnexus.app`,
+    siteAuthor: `@Aaron_Luhning`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
