@@ -27,7 +27,8 @@
   ],
   "scripts": {
     "build": "gatsby build",
-    "start": "gatsby develop",
+    "start": "node server.js",
+    "start:gatsby": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   }
