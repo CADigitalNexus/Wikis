@@ -2,8 +2,10 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
+- label: 'Getting involved'
+  link: '/getting-involved'
+- label: 'Contributing'
+  link: '/contributing'
 - label: Usage
   items:
     - label: 'Creating docs'
