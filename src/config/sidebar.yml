@@ -20,3 +20,7 @@
       link: /faq
     - label: 'Github'
       link: https://github.com/jpedroschmitz/rocketdocs
+- label: Reference Material
+  items:
+    - label: Policy
+      link: /policy
