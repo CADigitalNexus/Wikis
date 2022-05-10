@@ -1,12 +1,34 @@
 # Sidebar navigation
 
-- label: 'Introduction'
-  link: '/'
-- label: 'Getting involved'
-  link: '/getting-involved'
-- label: 'Contributing'
-  link: '/contributing'
-- label: Usage
+- label: References
+  link: '/references'
+- label: Situation
+  items:
+    - label: 'General'
+      link: '/'
+    - label: 'Getting involved'
+      link: '/getting-involved'
+    - label: 'Contributing'
+      link: '/contributing'
+- label: Mission
+  link: '/mission'
+- label: Execution
+  items:
+    - label: 'Intent'
+    - label: 'Scheme of Maneouvre'
+    - label: 'Main Effort'
+    - label: 'End State'
+- label: Implementation
+  items:
+    - label: 'LoE 1: Data Management'
+      link: '/loe1/data-management'
+    - label: 'LoE 2: Data Solutions'
+      link: '/'
+    - label: 'LoE 3: Data People'
+      link: '/'
+    - label: 'LoE 4: Data Culture'
+      link: '/'
+- label: Coordinating Instructions
   items:
     - label: 'Creating docs'
       link: '/usage/creating-docs'
@@ -21,8 +43,4 @@
     - label: FAQ
       link: /faq
     - label: 'Github'
-      link: https://github.com/jpedroschmitz/rocketdocs
-- label: Reference Material
-  items:
-    - label: Policy
-      link: /policy
+      link: https://github.com/CADigitalNexus/Wikis
