@@ -6,18 +6,12 @@
   items:
     - label: 'General'
       link: '/'
-    - label: 'Getting involved'
-      link: '/getting-involved'
-    - label: 'Contributing'
-      link: '/contributing'
 - label: Mission
   link: '/mission'
 - label: Execution
   items:
-    - label: 'Intent'
-    - label: 'Scheme of Maneouvre'
-    - label: 'Main Effort'
-    - label: 'End State'
+    - label: 'Concept of Ops'
+      link: '/concept'
 - label: Implementation
   items:
     - label: 'LoE 1: Data Management'
@@ -42,5 +36,9 @@
   items:
     - label: FAQ
       link: /faq
+    - label: 'Getting involved'
+      link: '/getting-involved'
+    - label: 'Contributing'
+      link: '/contributing'
     - label: 'Github'
       link: https://github.com/CADigitalNexus/Wikis
