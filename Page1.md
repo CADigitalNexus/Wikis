@@ -2,7 +2,7 @@
 ## H2
 ### H3
 
-![alt text](./static/banner.png)
+![alt text](./static/canada.jif)
 
 1. First item
 2. Second item
