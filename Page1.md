@@ -4,9 +4,9 @@
 
 ![Canada Flag](/static/canada.gif)
 
-1. First item
-2. Second item
-3. Third item
+1. Pizza
+2. Cheese
+3. Chocolate
 
 
 - Eggs
