@@ -1,11 +1,11 @@
-02-CA Digital Nexus_Numérique de AC
+### h1 02-CA Digital Nexus_Numérique de AC
 
-Training in Digital [By Company]
+## h2 Training in Digital [By Company]
 
 Canadian Army Digital Nexus
+	![The San Juan Mountains are beautiful!](/static/canada.gif "San Juan Mountains")
 
-
-CA Digital Nexus
+# h3 CA Digital Nexus
 ________________________________________
 The CA Digital Nexus is offering free training in data & analytics to all CA/Defence Members. 
 
@@ -14,41 +14,43 @@ The CA Digital Nexus is offering free training in data & analytics to all CA/Def
  
 
 
-How to register
+# h3 How to register
 ________________________________________
 CA Digital Nexus offers training opportunities in data and analytics listed above. 
  
-There are 6 internal learning opportunities:
+> There are 6 internal learning opportunities:
  
-•	WithYouWithMe
-•	ADM (DIA)
-•	HR-Civ Certificate in Data Excellence
-•	CSPS Digital Academy
-•	Microsoft Skills Enterprise
-•	SAP Analytics Cloud
+-	WithYouWithMe
+-	ADM (DIA)
+-	HR-Civ Certificate in Data Excellence
+-	CSPS Digital Academy
+-	Microsoft Skills Enterprise
+-	SAP Analytics Cloud
  
-There are 4 external learning opportunities offered:
+**There are 4 external learning opportunities offered:**
  
-•	coursera
-•	datacamp
-•	edX
-•	codecademy
+1.	coursera
+2.	datacamp
+3.	edX
+4.	codecademy
  
 Instructions on how to register for each individual training course in data & analytics listed above, can be found in the pages for each individual course listed in the left bar.
 
 
-WithYouWithMe (WYWM) 
+*WithYouWithMe (WYWM)* 
 
- 
+ 'blabalblba'
 
-What is WYWM
+#What is WYWM
+----
+----
 ________________________________________
                                                                                                                                                             
 WYWM builds talent where there are skills shortages in the technology sector by providing training in technology. In collaboration with the CA/DND, WYWM provides data & analytics training to upskill Defence team members by combining their military/Defence experience with skills in data & analytics. 
  
 Learning about data & analytics can help make CA/DND decision making more precise, efficient and well informed.
 
-WYWM Courses Offered
+#WYWM Courses Offered
 ________________________________________
 •	Data Foundations: this course provides a foundational knowledge of working with data.
 o	Plotting and optimizing graphs using visualization principles
