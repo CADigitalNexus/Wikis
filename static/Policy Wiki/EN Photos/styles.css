@@ -1,6 +1,8 @@
 h1, p {text-align: center;}
 body {background-color: gainsboro;}
-.policies {width: 95%;
+.policieswiki {width: 95%;
     background-color: ghostwhite;
     margin-left: auto;
     margin-right: auto;}
+.policy {text-align: left}
+.missionstatement {text-align: left}
