@@ -1,2 +1,4 @@
 h1, p {text-align: center;}
-body {background-color: grainsboro}
+body {background-color: darkgray;}
+div {width: 300px;
+    background-color: gainsboro;}
