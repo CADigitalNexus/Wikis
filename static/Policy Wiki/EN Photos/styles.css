@@ -19,7 +19,9 @@ margin-bottom: 0px;}
     margin-top: 0px;
 padding: 25px;}
 body {background-color: rgb(70, 89, 69);
-font-family:Arial, Helvetica, sans-serif;}
+font-family:Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;}
 .policieswiki {width: 88%;
     max-width: 1300px;
     background-color: rgb(247, 255, 247);
