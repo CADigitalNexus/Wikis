@@ -1,9 +1,16 @@
 h1, p {text-align: center;}
 body {background-color: gainsboro;}
-.policieswiki {width: 80%;
+.policieswiki {width: 20%;
     background-color: ghostwhite;
     margin-left: auto;
     margin-right: auto;}
-.policy {text-align: left}
-.missionstatement {text-align: left}
-.item p {text-align: left}
+.policy {text-align: left;
+margin-left: auto;
+margin-right: auto;
+}
+.missionstatement {text-align: left;
+margin-left: auto;
+margin-right: auto;}
+.item p {text-align: left;
+margin-left: auto;
+margin-right: auto;}
