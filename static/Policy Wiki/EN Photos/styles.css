@@ -1,11 +1,13 @@
 h1 {text-align: center;
 padding: 25px;}
-h2 {text-align: left;
-padding}
-p {text-align: center;}
-body {background-color: gainsboro;}
-.policieswiki {width: 95%;
-    background-color: ghostwhite;
+h2, h3 {text-align: left;
+padding: 25px;}
+p {text-align: center;
+padding: 25px;}
+body {background-color: rgb(70, 89, 69);}
+.policieswiki {width: 88%;
+    background-color: rgb(250, 255, 250);
+    text-decoration-color: rgb(29, 37, 29);
 margin-right: auto;
 margin-left: auto;
 padding-left: 20px;
