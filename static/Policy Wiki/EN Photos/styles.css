@@ -1,12 +1,18 @@
 h1 {text-align: center;
-padding: 25px;}
+padding: 25px;
+margin-bottom: 2px;
+padding-bottom: 2px;
+margin-top: 2px;}
 h2, h3 {text-align: left;
-padding: 25px;}
+padding-bottom: 0px;
+margin-top: 40px;
+margin-bottom: 0px;}
 p {text-align: center;
+    margin-top: 0px;
 padding: 25px;}
 body {background-color: rgb(70, 89, 69);}
 .policieswiki {width: 88%;
-    background-color: rgb(251, 255, 251);
+    background-color: rgb(250, 255, 250);
     text-decoration-color: rgb(29, 37, 29);
 margin-right: auto;
 margin-left: auto;
