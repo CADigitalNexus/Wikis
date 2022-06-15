@@ -1,9 +1,12 @@
-h1, p {text-align: center;}
+h1 {text-align: center;
+padding: 25px;}
+p {text-align: center;}
 body {background-color: gainsboro;}
 .policieswiki {width: 95%;
     background-color: ghostwhite;
 margin-right: auto;
-margin-left: auto;}
+margin-left: auto;
+padding: 2px;}
 .policy {text-align: left;}
 .missionstatement {text-align: left;}
 .item p {text-align: left;}
