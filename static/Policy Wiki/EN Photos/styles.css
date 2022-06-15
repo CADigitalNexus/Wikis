@@ -1,9 +1,11 @@
 h1 {text-align: center;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 padding: 25px;
 margin-bottom: 2px;
 padding-bottom: 2px;
 margin-top: 2px;}
 h2, h3 {text-align: left;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 padding-bottom: 0px;
 margin-top: 40px;
 margin-bottom: 0px;}
@@ -11,7 +13,7 @@ p {text-align: center;
     margin-top: 0px;
 padding: 25px;}
 body {background-color: rgb(70, 89, 69);
-font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif}
+font-family:Arial, Helvetica, sans-serif;}
 .policieswiki {width: 88%;
     max-width: 1300px;
     background-color: rgb(249, 255, 249);
