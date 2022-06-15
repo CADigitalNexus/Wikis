@@ -5,6 +5,9 @@ padding: 25px;
 margin-bottom: 2px;
 padding-bottom: 2px;
 margin-top: 2px;}
+hr {height: 0.5px;
+background-color:rgb(155, 155, 155);
+border-color:rgb(155, 155, 155)}
 h2 {font-size:x-large;}
 h3 {font-size:large;}
 h2, h3 {text-align: left;
@@ -19,7 +22,7 @@ body {background-color: rgb(70, 89, 69);
 font-family:Arial, Helvetica, sans-serif;}
 .policieswiki {width: 88%;
     max-width: 1300px;
-    background-color: rgb(249, 255, 249);
+    background-color: rgb(247, 255, 247);
     text-decoration-color: rgb(29, 37, 29);
 margin-right: auto;
 margin-left: auto;
