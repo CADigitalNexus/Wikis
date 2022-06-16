@@ -37,5 +37,6 @@ padding-bottom: 20px;}
 .policy {text-align: left;
 margin-bottom: 60px;}
 .missionstatement {text-align: left;}
+a {color: rgb(110, 100, 7);}
 a:visited {color: blue;}
 a:hover {color: rgb(196, 184, 84);}
