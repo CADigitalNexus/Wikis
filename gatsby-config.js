@@ -19,7 +19,7 @@ module.exports = {
         docsPath: `src/docs`,
         yamlFilesPath: `src/yamlFiles`,
         repositoryUrl: `https://github.com/CADigitalNexus/Wikis`,
-        baseDir: `examples/gatsby-theme-docs`,
+        baseDir: `...`,
       },
     },
     {
